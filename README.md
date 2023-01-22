@@ -1,6 +1,6 @@
-![YouTube Thumbnail for Learning TypeScript Livestream with book cover and photo of Josh Goldberg and Jenn Junod](https://user-images.githubusercontent.com/77285384/213764058-afaee6da-2057-43a6-9e36-f5f5ee467997.png)
+![misc-mondays](https://user-images.githubusercontent.com/77285384/213900346-16f5b445-3e05-49f0-9e22-fafc3b94a773.png)
 
-# Learning TypeScript w/ Josh Goldberg
+# Misc Mondays w/ Josh Goldberg
 
 ✨Hello beaufitul human! ✨
 
