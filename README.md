@@ -1,6 +1,6 @@
 ![misc-mondays](https://user-images.githubusercontent.com/77285384/213900346-16f5b445-3e05-49f0-9e22-fafc3b94a773.png)
 
-# Misc Mondays w/ Josh Goldberg
+# Misc Mondays w/ Laura
 
 ✨Hello beaufitul human! ✨
 
